@@ -160,7 +160,7 @@ Or
 
 **🤘 Hit** 👉 /features To Know More Features Of This Bot.
 
-**- Message @Md_Matin_Ashraf For More Help -**
+**- Message @Md_Matin_Ashraf For More Help -**"""
 
 BANNER_IMAGE = """
 Usage: `/banner_image image_url` or reply to any Image with this command
